@@ -1,0 +1,7 @@
+# Secrets
+.cursor/telegram-notify.config.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

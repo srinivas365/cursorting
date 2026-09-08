@@ -1,0 +1,9 @@
+{
+  "bot_token": "8527571606:AAFav-9o6T6P4Yk0X6Di9YQ24cRzeH5Wv-A",
+  "chat_id": "1836293810",
+  "notify_on": ["completed", "error"],
+  "include_workspace": true,
+  "include_model": true,
+  "include_subagents": true,
+  "message_prefix": "Cursor"
+}
