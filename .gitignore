@@ -1,6 +1,10 @@
 # Secrets
 .cursor/telegram-notify.config.json
 
+# Python
+__pycache__/
+*.pyc
+
 # OS / editor
 .DS_Store
 .idea/
